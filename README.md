@@ -63,7 +63,3 @@ skill**, and attach the `.md` or `.zip` file.
 
 **Claude / GPT / Gemini:** Paste the skill content into the platform's custom instructions, 
 system prompt, or project context.
-
----
-
-## Repository Structure
